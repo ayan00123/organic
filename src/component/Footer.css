@@ -1,0 +1,224 @@
+.organic-one {
+    position: absolute;
+    top: 50px;
+    left: 12.75rem;
+    width: 148px;
+    height: 56px;
+    /* margin: 0.5px 329px 177px 9.5px; */
+    font-family: LibreBaskerville;
+    font-size: 1.938rem;;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-one {
+      position: absolute;
+      top: 150px;
+      left: 8.688rem;
+    width: 19.938rem;
+    height: 2.75rem;
+    /* margin: 1.968rem 0 2.02rem 4.468rem; */
+    font-family: LibreBaskerville;
+    font-size: .95rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.79;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .-Copyright-2020-Nature {
+      position: absolute;
+      top: 300px;
+      left: 8.688rem;
+    width: 10.438rem;
+    height: 1.188rem;
+    /* margin: 0.668rem 9.5rem 3.176rem 4.468rem; */
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Information {
+    position: absolute;
+    top: 70px;
+    left: 34.696rem;
+    width: 5.688rem;
+    height: 1.313rem;
+    /* margin: 0 6.563rem 0.895rem 0.063rem; */
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .About-Us-one {
+    position: absolute;
+    top: 140px;
+    left: 34.696rem;
+    width: 3.625rem;
+    height: 1.188rem;
+    /* margin: 1.105rem 8.625rem 0.875rem 0.063rem; */
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Products-one {
+    position: absolute;
+    top: 210px;
+    left: 34.696rem;
+    width: 3.375rem;
+    height: 1.188rem;
+    /* margin: 1rem 8.875rem 0 0.063rem; */
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Contact-Us-one{
+    position: absolute;
+    top: 280px;
+    left: 34.696rem;
+    width: 4.188rem;
+    height: 1.188rem;
+    /* margin: 5.36rem 18.703rem 1rem 0.063rem; */
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Terms-of-Service {
+    position: absolute;
+    top: 350px;
+    left: 34.696rem;
+    width: 6.25rem;
+    height: 1.188rem;
+    /* margin: 1rem 16.703rem 0.095rem 0; */
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .About-Us-two{
+    position: absolute;
+    top: 140px;
+    left: 45.696rem;
+    width: 3.625rem;
+    height: 1.188rem;
+    /* margin: 0.98rem 0 1rem 6.563rem; */
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Products-two {
+    position: absolute;
+    top: 210px;
+    left: 45.696rem;
+    width: 3.375rem;
+    height: 1.188rem;
+    /* margin: 1rem 8.875rem 0 0.063rem; */
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Follow-Us {
+    position: absolute;
+    top: 70px;
+    left: 55.696rem;
+    width: 4.563rem;
+    height: 1.313rem;
+    /* margin: 0 0 0.895rem; */
+    font-family: LibreBaskerville;
+    font-size: 1rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Path-12248 {
+    position: absolute;
+    top: 140px;
+    left: 55.696rem;
+    width: 1.913rem;
+    height: 1.913rem;
+    /* margin: 0.675rem 0.124rem 1.038rem 0; */
+    /* padding: 1.877rem 0.693rem 0rem 0.974rem; */
+    /* background-color: #ffffff; */
+  }
+  .Path-1224{
+    position: absolute;
+    top: 140px;
+    left: 60.696rem;
+    width: 1.913rem;
+    height: 1.913rem;
+    /* margin: 0.675rem 0.124rem 1.038rem 0; */
+    /* padding: 1.877rem 0.693rem 0rem 0.974rem; */
+    /* background-color: #ffffff; */
+  }
+  .Path-122 {
+    position: absolute;
+    top: 140px;
+    left: 65.696rem;
+    width: 1.913rem;
+    height: 1.913rem;
+    /* margin: 0.675rem 0.124rem 1.038rem 0; */
+    /* padding: 1.877rem 0.693rem 0rem 0.974rem; */
+    /* background-color: #ffffff; */
+  }
+  .totalfooter{
+      position: absolute;
+      top: 3600px;
+      width: 100%;
+      height: 400px;
+      background-color: #374b5c ;
+  }

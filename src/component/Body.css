@@ -1,0 +1,607 @@
+.Healthy-life-with {
+    position: absolute;
+    top: 252px;
+    left: 139px;
+    width: 256px;
+    height: 48px;
+    font-family: LibreBaskerville;
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  }
+  .Nature-Organic {
+    position: absolute;
+    top: 295px;
+    left: 139px;
+    width: 404px;
+    height: 74px;
+    font-family: LibreBaskerville;
+    font-size: 56px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.32;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  }
+  .Vegetables-are-the-edible-parts-of-a-plant-that-is-used-in-cooking-or-can-be-eaten-now {
+    position: absolute;
+    top: 404px;
+    left: 139px;
+    width: 389px;
+    height: 54px;
+    /* margin: 35px 175px 35px 0; */
+    font-family: LibreBaskerville;
+    font-size: 22px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  }
+  .Explore-Now {
+    position: absolute;
+    top: 15px;
+    left: 60px;
+    width: 108px;
+    height: 24px;
+    font-family: LibreBaskerville;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+  }  
+  .Rectangle-2 {
+    position: absolute;
+    top: 493px;
+    left: 139px;
+    width: 220px;
+    height: 54px;
+    /* margin: 35px 344px 115px 0; */
+    padding: 14px 64px 16px 48px;
+    border-radius: 10px;
+    background-color:#00dbd0;
+  }
+  /* .Group-195 {
+    width: 419px;
+    height: 570px;
+  } */
+  .Welcome-to-Nature {
+    position: absolute;
+    top: 830px;
+    left: 504px;
+    width: 309px;
+    height: 48px;
+    margin: 14.5px 62px 19px 13px;
+    font-family: LibreBaskerville;
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-three {
+    position: absolute;
+    top: 900px;
+    left: 379px;
+    width: 568px;
+    height: 42px;
+    /* margin: 19px 19.3px 82.1px; */
+    font-family: LibreBaskerville;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+  .Rectangle-3 {
+    position: absolute;
+    top: 1021.1px;
+    left: 139px;
+    width: 240.7px;
+    height: 279.9px;
+    /* margin: 82.1px 19.3px 82px 139px; */
+    padding: 52.4px 51.7px 21px 51px;
+    border-radius: 20px;
+    border: solid 0.5px #374b5c;
+  }
+  .Organic {
+    position: absolute;
+    top: 163px;
+    left: 60px;
+    width: 66px;
+    height: 24px;
+    /* margin: 0 15.5px 0 0; */
+    font-family: LibreBaskerville;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+  .Food {
+    position: absolute;
+    top: 163px;
+    left: 141.5px;
+    width: 42px;
+    height: 24px;
+    /* margin: 0 0 0 15.5px; */
+    font-family: LibreBaskerville;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur {
+    position: absolute;
+    top: 201.9px;
+    left: 51px;
+    width: 138px;
+    height: 57px;
+    /* margin: 14.6px 0 0; */
+    font-family: LibreBaskerville;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+  .Rectangle-4{
+    position: absolute;
+    top: 1021.1px;
+    left: 415px;
+    width: 240.7px;
+    height: 279.9px;
+    /* margin: 82.1px 50px 82px 35.3px; */
+    padding: 52.4px 51.7px 21px 51px;
+    border-radius: 20px;
+    border: solid 0.5px white;
+    background-color: #00dbd0;
+  }
+  .Organic-one {
+    position: absolute;
+    top: 163px;
+    left: 60px;
+    width: 66px;
+    height: 24px;
+    /* margin: 0 15.5px 0 0; */
+    font-family: LibreBaskerville;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+  }
+  .Food-one {
+    position: absolute;
+    top: 163px;
+    left: 141.5px;
+    width: 42px;
+    height: 24px;
+    /* margin: 0 0 0 15.5px; */
+    font-family: LibreBaskerville;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur-one{
+    position: absolute;
+    top: 201.9px;
+    left: 51px;
+    width: 138px;
+    height: 57px;
+    /* margin: 14.6px 0 0; */
+    font-family: LibreBaskerville;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+  }
+  .Rectangle-5 {
+    position: absolute;
+    top: 1021.1px;
+    left: 705.7px;
+    width: 240.7px;
+    height: 279.9px;
+    /* margin: 82.1px 19.3px 82px 139px; */
+    padding: 52.4px 51.7px 21px 51px;
+    border-radius: 20px;
+    border: solid 0.5px #374b5c;
+  }
+  .Rectangle-6 {
+    position: absolute;
+    top: 1021.1px;
+    left: 986.3px;
+    width: 240.7px;
+    height: 279.9px;
+    /* margin: 82.1px 19.3px 82px 139px; */
+    padding: 52.4px 51.7px 21px 51px;
+    border-radius: 20px;
+    border: solid 0.5px #374b5c;
+  }
+  .Proudly-presented-by {
+    position: absolute;
+    top: 1462px;
+    left: 485px;
+    width: 339px;
+    height: 48px;
+    /* margin: 0 75.6px 19px 237.9px; */
+    font-family: LibreBaskerville;
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-two {
+    position: absolute;
+    top: 1529px;
+    left: 349px;
+    width: 568px;
+    height: 42px;
+    /* margin: 19px 151.9px 62px 151.9px; */
+    font-family: LibreBaskerville;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+  .woman-in-brown-jacket-and-black-shirt-3484683 {
+    position: absolute;
+    top: 1972px;
+    left: 595px;
+    width: 97.6px;
+    height: 97.6px;
+    /* margin: 30px 143.4px 18.5px 143px; */
+    /* object-fit: contain; */
+    border-radius: 50%;
+  }
+  .Jane-Doe {
+    position: absolute;
+    top: 2085px;
+    left: 600px;
+    width: 105px;
+    height: 35px;
+    /* margin: 18.5px 138px 16px 141px; */
+    font-family: LibreBaskerville;
+    font-size: 26px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  }
+  .Path-1 {
+    position: absolute;
+    top: 2120px;
+    left: 585px;
+    width: 25px;
+    height: 25px;
+  }
+  .Path-12 {
+    position: absolute;
+    top: 2120px;
+    left: 610px;
+    width: 25px;
+    height: 25px;
+  }
+  .Path-123 {
+    position: absolute;
+    top: 2120px;
+    left: 635px;
+    width: 25px;
+    height: 25px;
+  }
+  .Path-1234 {
+    position: absolute;
+    top: 2120px;
+    left: 660px;
+    width: 25px;
+    height: 25px;
+  }
+  .Path-12345 {
+    position: absolute;
+    top: 2120px;
+    left: 685px;
+    width: 25px;
+    height: 25px;
+  }
+  .Thank-you-for-all-the-amazing-produce-and-products-you-deliver-each-week-you-make-my-life-so-easy-an-bring-goodness-into-our-family-eating-Ive-been-roasting-a-lot-of-brussel-sprouts-and {
+    position: absolute;
+    top: 2145px;
+    left: 376px;
+    width: 542px;
+    height: 101px;
+    /* margin: 20px 32.3px 22px; */
+    font-family: LibreBaskerville;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+  .Ellipse-1 {
+    position: absolute;
+    top: 2280px;
+    left: 605px;
+    width: 15px;
+    height: 15px;
+  }
+  .Ellipse-2 {
+    position: absolute;
+    top: 2280px;
+    left: 630px;
+    width: 15px;
+    height: 15px;
+  }
+  .Ellipse-3 {
+    position: absolute;
+    top: 2280px;
+    left: 655px;
+    width: 15px;
+    height: 15px;
+  }
+  .Ellipse-4 {
+    position: absolute;
+    top: 2280px;
+    left: 680px;
+    width: 15px;
+    height: 15px;
+  }
+  .Subscribe-to-Our-Newsletter {
+    position: absolute;
+    top: 2420px ;
+    left: 464px;
+    width: 447px;
+    height: 48px;
+    /* margin: 207px 75.3px 19px 84.3px; */
+    font-family: LibreBaskerville;
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-one {
+    position: absolute;
+    top: 2486px;
+    left: 379px;
+    width: 568px;
+    height: 42px;
+    /* margin: 19px 19.3px 66px; */
+    font-family: LibreBaskerville;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+  .Subscribe {
+    width: 76px;
+    height: 24px;
+    font-family: LibreBaskerville;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+  }
+  .Rectangle-28 {
+    position: absolute;
+    top: 2550px;
+    left: 787.5px;
+    width: 167px;
+    height: 69px;
+    /* margin: 0 0 0 149.5px; */
+    padding: 21px 45.5px 24px;
+    border-radius: 30px;
+    background-color: #00dbd0;
+  }
+  .Subscribe {
+    width: 76px;
+    height: 24px;
+    font-family: LibreBaskerville;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: white;
+  }
+  .email{
+    position: absolute;
+    top: 2570px;
+    left: 449px;
+    color: #374b5c;
+  }
+  .Read-Our-Blog {
+    position: absolute;
+    top: 262px;
+    right: 139px;
+    width: 256px;
+    height: 48px;
+    font-family: LibreBaskerville;
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #374b5c;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-four {
+    position: absolute;
+    top: 320px;
+    right: 10px;
+    width: 568px;
+    height: 42px;
+    /* margin: 19px 19.3px 80px; */
+    font-family: LibreBaskerville;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+  .Rectangle-7 {
+    position: absolute;
+    top: 3021.1px;
+    left: 213px;
+    width: 17.375rem;
+  height: 22.5rem;
+    /* margin: 82.1px 19.3px 82px 139px; */
+    padding: 52.4px 51.7px 21px 51px;
+    border-radius: 20px;
+    border: solid 0.5px white;
+  }
+  .eucalyptus-essential-oil-soap-green-background-zero-waste-natural-organic-bathroom-tools_80743-2766 {
+    position: absolute;
+    top: -5px;
+    left: 0px;
+    width: 17.275rem;
+    height: 12.188rem;
+    /* margin: 0 0 1.125rem; */
+    object-fit: contain;
+    border-radius: 30px 30px 0px 0px;
+  }
+  .Blog-Post-One {
+    position: absolute;
+    top: 13rem;
+    left: 5.5rem;
+    width: 112px;
+    height: 24px;
+    /* margin: 0 15.5px 0 0; */
+    font-family: LibreBaskerville;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #00dbd0;
+  }
+  .Lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod {
+    position: absolute;
+    top: 15rem;
+    left: .6rem;
+    width: 11rem;
+    height: 3rem;
+    margin: 0.563rem 2.75rem 0.688rem;
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+  .Read-More {
+    position: absolute;
+    top: 20rem;
+    left: 6.8rem;
+    width: 4.25rem;
+    height: 1.188rem;
+    /* margin: 0.688rem 6.563rem 0.656rem; */
+    font-family: LibreBaskerville;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: center;
+    color: #374b5c;
+  }
+  .Rectangle-8 {
+    position: absolute;
+    top: 3021.1px;
+    left: 34rem;
+    width: 17.375rem;
+  height: 22.5rem;
+    /* margin: 82.1px 19.3px 82px 139px; */
+    padding: 52.4px 51.7px 21px 51px;
+    border-radius: 20px;
+    border: solid 0.5px white;
+  }
+  .Rectangle-9 {
+    position: absolute;
+    top: 3021.1px;
+    left: 54.668rem;
+    width: 17.375rem;
+  height: 22.5rem;
+    /* margin: 82.1px 19.3px 82px 139px; */
+    padding: 52.4px 51.7px 21px 51px;
+    border-radius: 20px;
+    border: solid 0.5px white;
+  }
+  
